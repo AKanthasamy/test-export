@@ -1,0 +1,78 @@
+<FIMGRQ11.2:DCSFM_RequestFlightImage xmlns="http://xml.amadeus.com/FIMGRQ" xmlns:FIMGRQ="http://xml.amadeus.com/FIMGRQ" xmlns:FIMGRQ11.2="http://xml.amadeus.com/FIMGRQ_11_2_1A">
+	<flightNumberInformation xmlns="http://xml.amadeus.com/FIMGRQ">
+		<companyIdentification>
+			<operatingCompany>BA</operatingCompany>
+		</companyIdentification>
+		<flightDetails>
+			<flightNumber>2277</flightNumber>
+		</flightDetails>
+	</flightNumberInformation>
+	<legInformation xmlns="http://xml.amadeus.com/FIMGRQ">
+		<legDetails>
+			<origin>LHR</origin>
+		</legDetails>
+		<departureDate>
+			<timeMode>L</timeMode>
+			<dateTime>
+				<year>2013</year>
+				<month>07</month>
+				<day>11</day>
+			</dateTime>
+		</departureDate>
+	</legInformation>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGACC</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGFLD</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGSUB</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGACR</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGBOO</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGPAX</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGTIM</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGSTW</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGSTA</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGDPA</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+	<dataGrouping xmlns="http://xml.amadeus.com/FIMGRQ">
+		<attributeDetails>
+			<attributeType>FGDOW</attributeType>
+		</attributeDetails>
+	</dataGrouping>
+</FIMGRQ11.2:DCSFM_RequestFlightImage>
