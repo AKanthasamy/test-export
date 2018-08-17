@@ -1,0 +1,4 @@
+delete/stubs?scenario=ASP_Test
+begin/session?scenario=ASP_Test&session=ASP_Test_1234&mode=record
+put/stub?session=ASP_Test_1234,ASP_Test_1234_0_0.textMatcher,ASP_Test_1234_0.response
+end/session?session=ASP_Test_1234
